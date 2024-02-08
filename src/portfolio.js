@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Full Stack Web Developer 🚀 having an experience of building Web and Mobile applications with Html / JavaScript / Reactjs / Nodejs / MongoDB / React Native and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://www.linkedin.com/in/asraful-shanto/", // Set to empty to hide the button
+    "https://flowcv.com/resume/wi686arqbn", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
