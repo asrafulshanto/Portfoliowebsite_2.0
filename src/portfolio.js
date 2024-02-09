@@ -126,7 +126,7 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Duke niversity",
+      schoolName: "Duke University",
       logo: require("./assets/images/Duke_University.png"),
       subHeader: "Introduction To Machine Learning",
       duration: "September 2020- May 2021",
