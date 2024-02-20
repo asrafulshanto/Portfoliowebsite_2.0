@@ -126,6 +126,17 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
+      schoolName: "Johns Hopkins University",
+      logo: require("./assets/images/johnhopkins.png"),
+      subHeader: "HTML, CSS, and Javascript for Web Developers",
+      duration: "November 2023- February 2024",
+      desc: "Completed Certification for HTML, CSS, and Javascript for Web Developers Offered By Johns Hopkins University.",
+      descBullets: [
+        "Studied HTML, CSS And JavaScript for Web Development."]
+    },
+
+
+    {
       schoolName: "Duke University",
       logo: require("./assets/images/Duke_University.png"),
       subHeader: "Introduction To Machine Learning",
@@ -134,6 +145,8 @@ const educationInfo = {
       descBullets: [
         "Studied Python and Bascis and Advanced Machine Learning."]
     },
+
+
     {
       schoolName: "National University",
       logo: require("./assets/images/nationaluniversity.png"),
@@ -264,7 +277,7 @@ const achievementSection = {
     {
       title: "HTML, CSS, and Javascript for Web Developers",
       subtitle:
-        "Completed Certification for HTML, CSS, and Javascript for Web Developers.",
+        "Completed Certification for HTML, CSS, and Javascript for Web Developers Offered By Johns Hopkins University.",
       image: require("./assets/images/htmlcssjavascriptjohnhopkins.png"),
       imageAlt: "HTML, CSS, and Javascript for Web Developers",
       footerLink: [
