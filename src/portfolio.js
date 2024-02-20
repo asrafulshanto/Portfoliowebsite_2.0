@@ -262,6 +262,24 @@ const achievementSection = {
       ]
     },
     {
+      title: "HTML, CSS, and Javascript for Web Developers",
+      subtitle:
+        "Completed Certification for HTML, CSS, and Javascript for Web Developers.",
+      image: require("./assets/images/johnhopkins.jpg"),
+      imageAlt: "HTML, CSS, and Javascript for Web Developers",
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://www.coursera.org/account/accomplishments/verify/D9R39R392C3F"
+        }
+      ]
+    },
+
+
+
+
+    
+    {
       title: "Crash Course On Python",
       subtitle:
         "Completed Certification for Crash Course on Python.",
