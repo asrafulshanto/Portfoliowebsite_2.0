@@ -265,7 +265,7 @@ const achievementSection = {
       title: "HTML, CSS, and Javascript for Web Developers",
       subtitle:
         "Completed Certification for HTML, CSS, and Javascript for Web Developers.",
-      image: require("./assets/images/johnhopkins.jpg"),
+      image: require("./assets/images/htmlcssjavascriptjohnhopkins.png"),
       imageAlt: "HTML, CSS, and Javascript for Web Developers",
       footerLink: [
         {
@@ -274,11 +274,6 @@ const achievementSection = {
         }
       ]
     },
-
-
-
-
-    
     {
       title: "Crash Course On Python",
       subtitle:
