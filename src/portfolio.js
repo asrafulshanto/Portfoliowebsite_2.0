@@ -130,9 +130,8 @@ const educationInfo = {
       logo: require("./assets/images/johnhopkins.png"),
       subHeader: "HTML, CSS, and Javascript for Web Developers",
       duration: "November 2023- February 2024",
-      desc: "Completed Certification for HTML, CSS, and Javascript for Web Developers Offered By Johns Hopkins University.",
-      descBullets: [
-        "Studied HTML, CSS And JavaScript for Web Development."]
+      desc: "Completed Certification for HTML, CSS, and Javascript for Web Developers.",
+      descBullets: ["HTML, CSS And JavaScript for Web Development."]
     },
 
 
@@ -142,8 +141,7 @@ const educationInfo = {
       subHeader: "Introduction To Machine Learning",
       duration: "September 2020- May 2021",
       desc: "Participated in the Course for Machine Learning",
-      descBullets: [
-        "Studied Python and Bascis and Advanced Machine Learning."]
+      descBullets: ["Python and Basics and Advanced Machine Learning."]
     },
 
 
