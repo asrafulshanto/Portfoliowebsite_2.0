@@ -125,7 +125,7 @@ https://fontawesome.com/icons?d=gallery */
 const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
-    {
+   /* {
       schoolName: "Johns Hopkins University",
       logo: require("./assets/images/johnhopkins.png"),
       subHeader: "HTML, CSS, and Javascript for Web Developers",
@@ -143,7 +143,7 @@ const educationInfo = {
       desc: "Participated in the Course for Machine Learning",
       descBullets: ["Python and Basics and Advanced Machine Learning."]
     },
-
+*/
 
     {
       schoolName: "National University",
